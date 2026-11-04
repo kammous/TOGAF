@@ -1,0 +1,1 @@
+export the important material from Step x into a concise Markdown revision sheet, including the exam-recognition patterns

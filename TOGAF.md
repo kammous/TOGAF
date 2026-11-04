@@ -36,6 +36,7 @@ Anwsers "What" : Business capabiliies are captured in a Business Capabilities Ca
 
 # C. Information System Architectures
 Purpose: Develop Data and Application architecture 
+
 # D. Technology Architecture
 
 **Steps**
